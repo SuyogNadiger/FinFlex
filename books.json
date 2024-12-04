@@ -1,0 +1,643 @@
+[
+    {
+      "id": 1,
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "category": "Investing",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/220"
+    },
+    {
+      "id": 2,
+      "title": "Common Stocks and Uncommon Profits",
+      "author": "Philip Fisher",
+      "category": "Investing",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1684"
+    },
+    {
+      "id": 3,
+      "title": "The Little Book of Common Sense Investing",
+      "author": "John C. Bogle",
+      "category": "Investing",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2149"
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1458"
+    },
+    {
+      "id": 5,
+      "title": "The Millionaire Next Door",
+      "author": "Thomas Stanley & William Danko",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2132"
+    },
+    {
+      "id": 6,
+      "title": "Your Money or Your Life",
+      "author": "Joe Dominguez & Vicki Robin",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2209"
+    },
+    {
+      "id": 7,
+      "title": "A Random Walk Down Wall Street",
+      "author": "Burton Malkiel",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1282"
+    },
+    {
+      "id": 8,
+      "title": "The Little Book That Still Beats the Market",
+      "author": "Joel Greenblatt",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2431"
+    },
+    {
+      "id": 9,
+      "title": "Market Wizards",
+      "author": "Jack Schwager",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/5539"
+    },
+    {
+      "id": 10,
+      "title": "The Psychology of Trading",
+      "author": "Brett Steenbarger",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1521"
+    },
+    {
+      "id": 11,
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1254"
+    },
+    {
+      "id": 12,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1987"
+    },
+    {
+      "id": 13,
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/64316"
+    },
+    {
+      "id": 14,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/3200"
+    },
+    {
+      "id": 15,
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen Covey",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/3152"
+    },
+    {
+      "id": 16,
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2840"
+    },
+    {
+      "id": 17,
+      "title": "Dare to Lead",
+      "author": "Brené Brown",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1892"
+    },
+    {
+      "id": 18,
+      "title": "Grit",
+      "author": "Angela Duckworth",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2786"
+    },
+    {
+      "id": 19,
+      "title": "The Art of Happiness",
+      "author": "Dalai Lama",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2113"
+    },
+    {
+      "id": 20,
+      "title": "Mindset",
+      "author": "Carol Dweck",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/3924"
+    },
+    {
+      "id": 21,
+      "title": "The Dhandho Investor",
+      "author": "Mohnish Pabrai",
+      "category": "Investing",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1456"
+    },
+    {
+      "id": 22,
+      "title": "The Millionaire Mind",
+      "author": "Thomas Stanley",
+      "category": "Investing",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1673"
+    },
+    {
+      "id": 23,
+      "title": "Financial Freedom",
+      "author": "Grant Sabatier",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2109"
+    },
+    {
+      "id": 24,
+      "title": "The Simple Path to Wealth",
+      "author": "JL Collins",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/3520"
+    },
+    {
+      "id": 25,
+      "title": "Principles: Life and Work",
+      "author": "Ray Dalio",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2152"
+    },
+    {
+      "id": 26,
+      "title": "The Little Book of Behavioral Investing",
+      "author": "James Montier",
+      "category": "Investing",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1207"
+    },
+    {
+      "id": 27,
+      "title": "The Art of Value Investing",
+      "author": "John Heins & Whitney Tilson",
+      "category": "Investing",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1423"
+    },
+    {
+      "id": 28,
+      "title": "One Up On Wall Street",
+      "author": "Peter Lynch",
+      "category": "Investing",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2191"
+    },
+    {
+      "id": 29,
+      "title": "Market Mind Games",
+      "author": "Richard L. Peterson",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2651"
+    },
+    {
+      "id": 30,
+      "title": "The Black Swan",
+      "author": "Nassim Nicholas Taleb",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/3004"
+    },
+    {
+      "id": 31,
+      "title": "The Tao of Trading",
+      "author": "Robert Koppel",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/4201"
+    },
+    {
+      "id": 32,
+      "title": "The Little Book of Currency Trading",
+      "author": "Kathy Lien",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/3132"
+    },
+    {
+      "id": 33,
+      "title": "Tools and Techniques of Financial Planning",
+      "author": "Stephen Horan",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/1248"
+    },
+    {
+      "id": 34,
+      "title": "Wealth and Poverty",
+      "author": "George Gilder",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2614"
+    },
+    {
+      "id": 35,
+      "title": "The Art of Money Getting",
+      "author": "P.T. Barnum",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/3895"
+    },
+    {
+      "id": 36,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Personal Finance",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2679"
+    },
+    {
+      "id": 37,
+      "title": "Mastering the Trade",
+      "author": "John F. Carter",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2225"
+    },
+    {
+      "id": 38,
+      "title": "Reminiscences of a Stock Operator",
+      "author": "Edwin Lefèvre",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2510"
+    },
+    {
+      "id": 39,
+      "title": "The Psychology of Trading",
+      "author": "Brett N. Steenbarger",
+      "category": "Trading",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2663"
+    },
+    {
+      "id": 40,
+      "title": "The Science of Getting Rich",
+      "author": "Wallace D. Wattles",
+      "category": "Personality",
+      "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+      "source": "https://www.gutenberg.org/ebooks/2531"
+    },
+        {
+          "id": 41,
+          "title": "The Little Book of Common Sense Investing",
+          "author": "John C. Bogle",
+          "category": "Investing",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/1320"
+        },
+        {
+          "id": 42,
+          "title": "The Psychology of Money",
+          "author": "Morgan Housel",
+          "category": "Investing",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/2728"
+        },
+        {
+          "id": 43,
+          "title": "The Little Book of Value Investing",
+          "author": "Christopher H. Browne",
+          "category": "Investing",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/3127"
+        },
+        {
+          "id": 44,
+          "title": "Rich Dad Poor Dad",
+          "author": "Robert Kiyosaki",
+          "category": "Personal Finance",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/1401"
+        },
+        {
+          "id": 45,
+          "title": "The Wealthy Gardener",
+          "author": "John Soforic",
+          "category": "Personal Finance",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/1687"
+        },
+        {
+          "id": 46,
+          "title": "You Are a Badass at Making Money",
+          "author": "Jen Sincero",
+          "category": "Personal Finance",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/1902"
+        },
+        {
+          "id": 47,
+          "title": "The Total Money Makeover",
+          "author": "Dave Ramsey",
+          "category": "Personal Finance",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/3124"
+        },
+        {
+          "id": 48,
+          "title": "The Intelligent Investor",
+          "author": "Benjamin Graham",
+          "category": "Investing",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/2148"
+        },
+        {
+          "id": 49,
+          "title": "Common Stocks and Uncommon Profits",
+          "author": "Philip Fisher",
+          "category": "Investing",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/3245"
+        },
+        {
+          "id": 50,
+          "title": "The Millionaire Next Door",
+          "author": "Thomas Stanley",
+          "category": "Personal Finance",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/2887"
+        },
+        {
+          "id": 51,
+          "title": "Market Wizards",
+          "author": "Jack D. Schwager",
+          "category": "Trading",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/1574"
+        },
+        {
+          "id": 52,
+          "title": "The Little Book of Market Wizards",
+          "author": "Jack D. Schwager",
+          "category": "Trading",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/2339"
+        },
+        {
+          "id": 53,
+          "title": "The Trading Game",
+          "author": "Ryan Mallory",
+          "category": "Trading",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/2987"
+        },
+        {
+          "id": 54,
+          "title": "The Complete TurtleTrader",
+          "author": "Michael W. Covel",
+          "category": "Trading",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/3293"
+        },
+        {
+          "id": 55,
+          "title": "Trading for a Living",
+          "author": "Dr. Alexander Elder",
+          "category": "Trading",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/2793"
+        },
+        {
+          "id": 56,
+          "title": "The Little Book That Still Beats the Market",
+          "author": "Joel Greenblatt",
+          "category": "Investing",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/1220"
+        },
+        {
+          "id": 57,
+          "title": "The Art of Trading",
+          "author": "Christopher Tate",
+          "category": "Trading",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/2582"
+        },
+        {
+          "id": 58,
+          "title": "How to Make Money in Stocks",
+          "author": "William J. O'Neil",
+          "category": "Trading",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/3210"
+        },
+        {
+          "id": 59,
+          "title": "The Little Book of Investing Do's and Don'ts",
+          "author": "Ben Stein",
+          "category": "Investing",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/2234"
+        },
+        {
+          "id": 60,
+          "title": "The Bogleheads' Guide to Retirement Planning",
+          "author": "Taylor Larimore",
+          "category": "Personal Finance",
+          "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+          "source": "https://www.gutenberg.org/ebooks/2675"
+        },
+            {
+              "id": 61,
+              "title": "The Dhandho Investor",
+              "author": "Mohnish Pabrai",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/3510"
+            },
+            {
+              "id": 62,
+              "title": "The Art of Wealth Management",
+              "author": "Peter J. Brennan",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/1275"
+            },
+            {
+              "id": 63,
+              "title": "The Millionaire Mind",
+              "author": "Thomas Stanley",
+              "category": "Personal Finance",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/1968"
+            },
+            {
+              "id": 64,
+              "title": "The Richest Man in Babylon",
+              "author": "George S. Clason",
+              "category": "Personal Finance",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2086"
+            },
+            {
+              "id": 65,
+              "title": "The Simple Path to Wealth",
+              "author": "JL Collins",
+              "category": "Personal Finance",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2115"
+            },
+            {
+              "id": 66,
+              "title": "The Psychology of Investing",
+              "author": "John Nofsinger",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/1825"
+            },
+            {
+              "id": 67,
+              "title": "The Snowball: Warren Buffett and the Business of Life",
+              "author": "Alice Schroeder",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2462"
+            },
+            {
+              "id": 68,
+              "title": "A Random Walk Down Wall Street",
+              "author": "Burton G. Malkiel",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/3481"
+            },
+            {
+              "id": 69,
+              "title": "The Intelligent Investor",
+              "author": "Benjamin Graham",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2591"
+            },
+            {
+              "id": 70,
+              "title": "Principles: Life and Work",
+              "author": "Ray Dalio",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2505"
+            },
+            {
+              "id": 71,
+              "title": "One Up on Wall Street",
+              "author": "Peter Lynch",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2671"
+            },
+            {
+              "id": 72,
+              "title": "The Little Book of Behavioral Investing",
+              "author": "James Montier",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2439"
+            },
+            {
+              "id": 73,
+              "title": "Warren Buffett's Ground Rules",
+              "author": "Jeremy C. Miller",
+              "category": "Investing",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/3347"
+            },
+            {
+              "id": 74,
+              "title": "Secrets of the Millionaire Mind",
+              "author": "T. Harv Eker",
+              "category": "Personal Finance",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2322"
+            },
+            {
+              "id": 75,
+              "title": "Your Money or Your Life",
+              "author": "Joe Dominguez and Vicki Robin",
+              "category": "Personal Finance",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/3012"
+            },
+            {
+              "id": 76,
+              "title": "The Secret to Wealth",
+              "author": "Ramit Sethi",
+              "category": "Personal Finance",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/3222"
+            },
+            {
+              "id": 77,
+              "title": "The Millionaire Fastlane",
+              "author": "MJ DeMarco",
+              "category": "Personal Finance",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2894"
+            },
+            {
+              "id": 78,
+              "title": "The Compound Effect",
+              "author": "Darren Hardy",
+              "category": "Personal Finance",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/2923"
+            },
+            {
+              "id": 79,
+              "title": "How to Invest in Stocks",
+              "author": "William J. O'Neil",
+              "category": "Trading",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/3471"
+            },
+            {
+              "id": 80,
+              "title": "The Trading Game: Playing by the Rules",
+              "author": "Ryan Mallory",
+              "category": "Trading",
+              "image": "https://i.postimg.cc/HW2Z2dC4/library-DP.png",
+              "source": "https://www.gutenberg.org/ebooks/3500"
+            }
+          ]
+          
